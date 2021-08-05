@@ -1,0 +1,2 @@
+rootProject.name = "CoroutineWithLiveData_test"
+include ':app'
